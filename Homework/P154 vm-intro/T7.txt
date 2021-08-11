@@ -1,0 +1,51 @@
+43788:   bash
+Address           Kbytes     RSS   Dirty Mode  Mapping
+00005652d3915000     180       0       0 r---- bash
+00005652d3942000     708     704       0 r-x-- bash
+00005652d39f3000     220     108       0 r---- bash
+00005652d3a2a000      16      16      16 r---- bash
+00005652d3a2e000      36      36      36 rw--- bash
+00005652d3a37000      40      40      40 rw---   [ anon ]
+00005652d5682000    1700    1640    1640 rw---   [ anon ]
+00007f2efd879000     260     260     260 rw---   [ anon ]
+00007f2efd8ba000      12      12       0 r---- libnss_files-2.31.so
+00007f2efd8bd000      28      28       0 r-x-- libnss_files-2.31.so
+00007f2efd8c4000       8       8       0 r---- libnss_files-2.31.so
+00007f2efd8c6000       4       4       4 r---- libnss_files-2.31.so
+00007f2efd8c7000       4       4       4 rw--- libnss_files-2.31.so
+00007f2efd8c8000      24       0       0 rw---   [ anon ]
+00007f2efd8de000   14200     504       0 r---- locale-archive
+00007f2efe6bc000      12       8       8 rw---   [ anon ]
+00007f2efe6bf000     148     140       0 r---- libc-2.31.so
+00007f2efe6e4000    1504    1376       0 r-x-- libc-2.31.so
+00007f2efe85c000     296     200       0 r---- libc-2.31.so
+00007f2efe8a6000       4       0       0 ----- libc-2.31.so
+00007f2efe8a7000      12      12      12 r---- libc-2.31.so
+00007f2efe8aa000      12      12      12 rw--- libc-2.31.so
+00007f2efe8ad000      16      16      16 rw---   [ anon ]
+00007f2efe8b1000       4       4       0 r---- libdl-2.31.so
+00007f2efe8b2000       8       8       0 r-x-- libdl-2.31.so
+00007f2efe8b4000       4       0       0 r---- libdl-2.31.so
+00007f2efe8b5000       4       4       4 r---- libdl-2.31.so
+00007f2efe8b6000       4       4       4 rw--- libdl-2.31.so
+00007f2efe8b7000      56      20       0 r---- libtinfo.so.6.2
+00007f2efe8c5000      60      60       0 r-x-- libtinfo.so.6.2
+00007f2efe8d4000      56      56       0 r---- libtinfo.so.6.2
+00007f2efe8e2000      16      16      16 r---- libtinfo.so.6.2
+00007f2efe8e6000       4       4       4 rw--- libtinfo.so.6.2
+00007f2efe8e7000       8       8       8 rw---   [ anon ]
+00007f2efe8ec000      24      24       0 r---- bash.mo
+00007f2efe8f2000      28      28       0 r--s- gconv-modules.cache
+00007f2efe8f9000       4       4       0 r---- ld-2.31.so
+00007f2efe8fa000     140     140       0 r-x-- ld-2.31.so
+00007f2efe91d000      32      32       0 r---- ld-2.31.so
+00007f2efe925000       4       4       0 r---- libc.mo
+00007f2efe926000       4       4       4 r---- ld-2.31.so
+00007f2efe927000       4       4       4 rw--- ld-2.31.so
+00007f2efe928000       4       4       4 rw---   [ anon ]
+00007fff8e10f000     132     108     108 rw---   [ stack ]
+00007fff8e146000      16       0       0 r----   [ anon ]
+00007fff8e14a000       8       4       0 r-x--   [ anon ]
+ffffffffff600000       4       0       0 --x--   [ anon ]
+---------------- ------- ------- ------- 
+total kB           20072    5668    2204
